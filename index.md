@@ -1,6 +1,5 @@
 ## hello
- ![](path = "stats220/bingen.jpg")
-
+ ![](stats220/bingen.jpg)
  Below is the code that I used to create this meme.
 
 ```r 
