@@ -1,5 +1,6 @@
 ## hello
- ![](stats220/bingen.jpg)
+ ![](bingen.jpg)
+ 
  Below is the code that I used to create this meme.
 
 ```r 
