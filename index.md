@@ -1,5 +1,5 @@
 ## hello
- ![](https://raw.githubusercontent.com/T-Hong-K/stats220/main/bingen.jpg)
+ ![](path = "stats220/bingen.jpg")
 
  Below is the code that I used to create this meme.
 
