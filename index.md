@@ -1,1 +1,1 @@
-![](images/bingen.jpg
+![](images/bingen.jpg)
