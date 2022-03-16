@@ -59,3 +59,6 @@ bingen <-c(first_row, second_row)%>%
   image_append(stack = TRUE)
 
 image_write(bingen, "images/bingen.jpg")
+
+```
+I took inspiration from [this](https://www.reddit.com/gallery/lre9ka) to create my meme.
