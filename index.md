@@ -20,7 +20,7 @@ My favourite albums are:
 - [_Swimming_](https://en.wikipedia.org/wiki/Swimming_(Mac_Miller_album))
 
 ## MEMES
- ![](bingen.jpg)
+ ![](meme..jpg)
  
 I used the [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package in R to create the meme below. 
 
