@@ -1,7 +1,7 @@
 ## Index
  ![](bingen.jpg)
  
-I used the [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package in R to create the meme below. 
+I used the [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package in R to create the meme below. 
 
 ```r 
 library(magick)
