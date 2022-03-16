@@ -4,6 +4,21 @@ This is a website for STATS220
 ## About me 
 **I enjoy playing videogames, watching TV shows/movies, and listening to music.**
 
+My favourite videogames are :
+- bb
+- bb
+- bb
+
+My favourite TV shows/movies are:
+- bvb
+- b
+- b
+
+My favourite albums are:
+- b 
+- b 
+- b
+
 ## MEMES
  ![](bingen.jpg)
  
