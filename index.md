@@ -1,4 +1,10 @@
-## Index
+## Hello, welcome to my STATS220 website.
+This is a website for STATS220
+
+## About me 
+**I enjoy playing videogames, watching TV shows/movies, and listening to music.**
+
+## MEMES
  ![](bingen.jpg)
  
 I used the [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package in R to create the meme below. 
