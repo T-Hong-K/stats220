@@ -5,19 +5,19 @@ This is a website for STATS220
 **I enjoy playing videogames, watching TV shows/movies, and listening to music.**
 
 My favourite videogames are :
-- bb
-- bb
-- bb
+- [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring)
+- [Monster Hunter: World](https://en.wikipedia.org/wiki/Monster_Hunter:_World)
+- [Project Zomboid](https://en.wikipedia.org/wiki/Project_Zomboid)
 
 My favourite TV shows/movies are:
-- bvb
-- b
-- b
+* [Gurren Lagann](https://en.wikipedia.org/wiki/Gurren_Lagann)
+* [Pacific Rim](https://en.wikipedia.org/wiki/Pacific_Rim_(film))
+* [Chernobyl](https://en.wikipedia.org/wiki/Chernobyl_(miniseries))
 
 My favourite albums are:
-- b 
-- b 
-- b
+- [Discovery](https://en.wikipedia.org/wiki/Discovery_(Daft_Punk_album))
+- [The Incredible True Story](https://en.wikipedia.org/wiki/The_Incredible_True_Story)
+- [Swimming](https://en.wikipedia.org/wiki/Swimming_(Mac_Miller_album))
 
 ## MEMES
  ![](bingen.jpg)
