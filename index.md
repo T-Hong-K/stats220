@@ -61,4 +61,8 @@ bingen <-c(first_row, second_row)%>%
 image_write(bingen, "images/bingen.jpg")
 
 ```
-I took inspiration from [this](https://www.reddit.com/gallery/lre9ka) to create my meme.
+[This meme](https://www.reddit.com/gallery/lre9ka) is the meme that I used to take inspiration for creating my own meme. 
+
+The memes I enjoy tend to be intentionally terrible. This is prevelent throughout the Breaking Bad community, specifically on subreddits like ["okbuddychicanery"](https://www.reddit.com/r/okbuddychicanery/). 
+
+Another source of inspiration I took is from Counter-Strike: Global Offensive, which is currently one of my most played videogames. 
