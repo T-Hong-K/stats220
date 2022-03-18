@@ -1,5 +1,5 @@
-## Hello, welcome to my STATS220 website.
-This is a website for STATS220
+# Hello
+
 
 ## About me 
 **I enjoy playing videogames, watching TV shows/movies, and listening to music.**
