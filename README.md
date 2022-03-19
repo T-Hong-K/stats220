@@ -1,6 +1,7 @@
 # STATS220
 
 This is a repository for my STATS220 course at the University of Auckland.
+This repository will contain my work which I have created for the STATS220 course.
 
 [Link](https://github.com/T-Hong-K/stats220) to my GitHub repository.
 
