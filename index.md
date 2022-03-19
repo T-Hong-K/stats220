@@ -66,3 +66,5 @@ image_write(bingen, "images/bingen.jpg")
 The memes I enjoy tend to be intentionally terrible. This is prevelent throughout the Breaking Bad community, specifically on subreddits like ["okbuddychicanery"](https://www.reddit.com/r/okbuddychicanery/). 
 
 Another source of inspiration I took is from Counter-Strike: Global Offensive, which is currently one of my most played videogames. 
+
+My meme is original because I took inspiration from an existing format, but created my own meme with unique pictures and captions.
