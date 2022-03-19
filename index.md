@@ -49,3 +49,7 @@ The memes I enjoy tend to be intentionally terrible. This is prevelent throughou
 Another source of inspiration I took is from Counter-Strike: Global Offensive, which is currently one of my most played videogames. 
 
 My meme is original because I took inspiration from an existing format, but created my own meme with unique pictures and captions.
+
+I also took inspiration for my meme from [4 Panel Cringe](reddit.com/r/4panelcringe), a subreddit that contains memes which feature the same format as my meme, while also emphasizing cringe and terrible humor. Below is an example of a 4 Panel Cringe meme.
+
+![](https://i.redd.it/gpc1v0lsj1f31.jpg)
